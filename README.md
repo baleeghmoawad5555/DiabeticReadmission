@@ -1,4 +1,6 @@
 # Diabetic Readmission
+![Dashboard](https://github.com/baleeghmoawad5555/DiabeticReadmission/assets/84938282/d84d4ea1-aa78-443d-9dd5-fcf7ee5e821f)
+
 
 ### Abstract
 The increasing prevalence of diabetes and its associated hospital readmissions pose a significant challenge to healthcare providers. Readmissions are costly, disruptive to patients’ health, and represents a burden on healthcare providers. This study aims to tackle the rising burden of hospital readmissions among diabetic patients by developing and evaluating different advanced machine learning models.
